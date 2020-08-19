@@ -1,0 +1,12 @@
+[
+  {
+    "provinceName": "美国",
+    "currentConfirmedCount": 3424215,
+    "confirmedCount": 5494239
+  },
+  {
+    "provinceName": "英国",
+    "currentConfirmedCount": 279163,
+    "confirmedCount": 321098
+  }
+]
